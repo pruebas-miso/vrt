@@ -1,6 +1,6 @@
 {
     "vesrionsToCompare": ["3.3.0","3.42.5"],
-    "functionalities":["posts"],
+    "functionalities":["tags"],
     "options":{
         "output": {
             "errorColor": {
