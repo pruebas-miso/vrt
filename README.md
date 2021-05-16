@@ -1,10 +1,10 @@
-# Visual Regression Testing using Resemble and Backstop 
+# Visual Regression Testing usando Resemble and Backstop 
 
 
 
 # Pasos para poder usar la herramienta de comparacion creada con ResembleJs
 
-### Prerequisites
+### Prerequisitos
 - Estar en un directorió donde desee trabajar 
 - Descargar nodeJs en la versión v12.16.1 , descargar según sistema operativo [Node](https://nodejs.org/es/download/)   
 - Clonar repo : git clone https://github.com/pruebas-miso/vrt.git
