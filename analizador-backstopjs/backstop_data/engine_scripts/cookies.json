@@ -1,0 +1,16 @@
+[
+  {
+      "domain": "localhost",
+      "expirationDate": 1636987292.091664,
+      "hostOnly": true,
+      "httpOnly": true,
+      "name": "ghost-admin-api-session",
+      "path": "/ghost",
+      "sameSite": "lax",
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "s%3AHx3KFGWL-RMEz1_GiswlfIx80a1kjSO6.tRlaxZAl2UPWyYl%2FvpvLZOaR0XKLcFG%2BscEywVAcjq8",
+      "id": 1
+  }
+]
